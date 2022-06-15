@@ -4,6 +4,7 @@
 The MIT License (MIT)
 
 Copyright (c) 2018 Jialin Ding
+
 Copyright (c) 2015 Shu Uesugi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
