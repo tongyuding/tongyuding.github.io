@@ -22,10 +22,6 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 
 ## Publications
 
-#- [APEX: A High-Performance Learned Index on Persistent Memory](https://arxiv.org/pdf/2105.00683.pdf).<br>
-#Baotong Lu, **Jialin Ding**, Eric Lo, Umar Farooq Minhas and Tianzheng Wang. <br>
-#*VLDB 2022*.
-
 ---
 
 ## Teaching and Service
@@ -35,7 +31,7 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 
 ## Experience
 
-- Database Developer(Board Member) @ Nanjing Catinfo), 2018.9 - 2022.4
+- Database Developer(Board Member) @ Nanjing Catinfo, 2018.9 - 2022.4
 
 ---
 
