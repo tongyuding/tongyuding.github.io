@@ -15,7 +15,6 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 
 
 [[CV](/ding_cv.pdf)] [[Blog](https://www.zhihu.com/people/shui-jing-dong)]
-# [[Google Scholar](https://scholar.google.com/citations?user=uUiXiMIAAAAJ)]
 
 ---
 
