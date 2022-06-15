@@ -6,7 +6,6 @@ description:
 
 # Tongyu Ding
 <img src="/static/dty.jpg" alt="TY" style="width: 180px; height: 192px; float: right; margin: 10px"/>
-<!-- ![Jialin](/static/jialin.jpg) -->
 
 I will work as a Research Assistant at the City University of Hong Kong from August 2022, supervised by [Prof. Qing Ke](https://qke.github.io/). My research focuses on data science and database.
 
