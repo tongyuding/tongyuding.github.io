@@ -34,8 +34,10 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 ---
 
 ## Projects
-
-
+KCLOUD  - Enterprise Database Lifecycle Management System 
+CATDB   - PostgreSQL-Based MPP Database
+KTUNER  - Query Optimisation Analysis Tool
+KSYSTEM - Oracle-based Cluster Management System
 ---
 
 ## Contact
