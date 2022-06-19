@@ -9,7 +9,7 @@ description:
 
 I will work as a Research Assistant at the City University of Hong Kong from August 2022, supervised by [Prof. Qing Ke](https://qke.github.io/). My research focuses on data science and database.
 
-Prior to Cityu, I worked in [Nanjing Catinfo](https://www.catinfo.cn/) with Keqin Shen and Wei Wang.
+Prior to Cityu, I worked in [Nanjing Catinfo](https://www.catinfo.cn/) with Mr.Keqin Shen and Mr.Wei Wang.
 
 Feel free to contact me if you want to discuss the research, even the philosophy.
 
@@ -20,25 +20,33 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 
 ## Publications
 
----
-
-## Teaching and Service
-
 
 ---
 
 ## Experience
 
-- Database Developer(Board Member) @ Nanjing Catinfo, 2018.9 - 2022.4
+- Product Manager(Board Member) @ Nanjing Catinfo (2018.9 - 2022.4)
 
 ---
 
 ## Projects
 
-- KCLOUD:Enterprise Database Lifecycle Management System 
-- CATDB:PostgreSQL-Based MPP Database
-- KTUNER:Query Optimisation Analysis Tool
-- KSYSTEM:Oracle-based Cluster Management System
+- KCLOUD:Enterprise Database Lifecycle Management System(_Database_)
+- CATDB:PostgreSQL-Based MPP Database(_Database_)
+- KTUNER:Query Optimisation Analysis Tool(_Database_)
+- KSYSTEM:Oracle-based Cluster Management System(_Database_)
+- Restaurant Recommendation App on Andorid Platform(_Machine Learning_)
+- Comparative Study of different Supervised Classification Algorithms in Remote Sensing Image(_Machine Learning_)
+
+---
+
+## Awards
+
+- Oracle Database 12c Administrator Certified Professional @ Oracle (September 2020)
+- First Class Scholarship @ NUPT (2018–2019)
+- 2nd Prize @ Mathematical Contest in Modelling (January 2017)
+- President Scholarship @ NYIT (2015-2018 each year)
+- Dean’s Scholarship @ NYIT (2015-2017 each year)
 
 ---
 
