@@ -25,7 +25,7 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 
 ## Experience
 
-- Product Manager(Board Member) @ Nanjing Catinfo, 2018.9 - 2022.4
+- Product Manager (Board Member) @ Nanjing Catinfo, 2018.9 - 2022.4
 
 ---
 
@@ -33,10 +33,10 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 
 ### Completed Projects
 
-- KCLOUD-Enterprise Database Lifecycle Management System(_Database_)
-- CATDB-PostgreSQL-Based MPP Database(_Database_)
-- KTUNER-Query Optimisation Analysis Tool(_Database_)
-- KSYSTEM-Oracle-based Cluster Management System(_Database_)
+- KCLOUD: Enterprise Database Lifecycle Management System(_Database_)
+- CATDB:  PostgreSQL-Based MPP Database(_Database_)
+- KTUNER: Query Optimisation Analysis Tool(_Database_)
+- KSYSTEM: Oracle-based Cluster Management System(_Database_)
 - Restaurant Recommendation App on Andorid Platform(_Machine Learning_)
 - Comparative Study of different Supervised Classification Algorithms in Remote Sensing Image(_Machine Learning_)
 
