@@ -14,7 +14,7 @@ Prior to Cityu, I worked in [Nanjing Catinfo](https://www.catinfo.cn/) with Keqi
 Feel free to contact me if you want to discuss the research, even the philosophy.
 
 
-[[CV](/ding_cv.pdf)] [[Blog](https://www.zhihu.com/people/shui-jing-dong)]
+[[CV](/ding_cv.pdf)]
 
 ---
 
