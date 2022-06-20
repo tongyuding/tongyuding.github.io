@@ -38,7 +38,7 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 - KTUNER: Query Optimisation Analysis Tool(_Database_)
 - KSYSTEM: Oracle-based Cluster Management System(_Database_)
 - Restaurant Recommendation App on Andorid Platform(_Machine Learning_)
-- Comparative Study of different Supervised Classification Algorithms in Remote Sensing Image(_Machine Learning_)
+- Comparative Study of Different Supervised Classification Algorithms in Remote Sensing Image(_Machine Learning_)
 
 ---
 
