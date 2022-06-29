@@ -25,7 +25,7 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 
 ## Experience
 
-- Product Manager (Board Member) @ Nanjing Catinfo, 2018.9 - 2022.4
+- Product Manager (Board Member) @ Nanjing Catinfo, 2018.8 - 2022.4
 
 ---
 
