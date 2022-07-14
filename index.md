@@ -26,6 +26,10 @@ Feel free to contact me if you want to discuss the research, even the Philosophy
 
 ## Projects
 
+### Ideas
+
+1. Data Model for Risk Management
+
 ### Completed Projects
 
 - Data Analysis on Game Kejin(氪金)(_Machine Learning_)
@@ -40,6 +44,7 @@ Feel free to contact me if you want to discuss the research, even the Philosophy
 
 ## Awards
 
+- Catinfo: Series A Funding, December 2020
 - Catinfo: Quality Management System Certification, July 2020
 - Oracle Database 12c Administrator Certified Professional @ Oracle, September 2020
 - Catinfo: Certification of High and New Tech Enterprises, December 2019
