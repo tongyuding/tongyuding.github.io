@@ -54,4 +54,6 @@ Feel free to contact me if you want to discuss the research, even the Philosophy
 
 tongyu_ding@163.com
 
+---
+
 ## [Philosophy](/notes.md)
