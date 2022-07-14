@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Tongyu Ding
-description: 
+description: Home
 ---
 
-# Tongyu Ding
+# Tongyu Ding(/index.md)
 <img src="/static/dty.jpg" alt="TY" style="width: 180px; height: 192px; float: right; margin: 10px"/>
 
 I will work as a Research Assistant at the City University of Hong Kong from August 2022, supervised by [Prof. Qing Ke](https://qke.github.io/). My research focuses on data science and database.
@@ -14,12 +14,7 @@ Prior to Cityu, I worked in [Nanjing Catinfo](https://www.catinfo.cn/) with Mr.K
 Feel free to contact me if you want to discuss the research, even the philosophy.
 
 
-[[CV](/ding_cv.pdf)]
-
----
-
-## Publications
-
+[[CV](/ding_cv.pdf)]][[GitHub](https://github.com/tongyuding)]]
 
 ---
 
@@ -33,6 +28,7 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 
 ### Completed Projects
 
+- Data Analysis on Game Kejin(氪金)(_Machine Learning_)
 - KCLOUD: Enterprise Database Lifecycle Management System(_Database_)
 - CATDB:  PostgreSQL-Based MPP Database(_Database_)
 - KTUNER: Query Optimisation Analysis Tool(_Database_)
@@ -44,8 +40,10 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 
 ## Awards
 
+- Catinfo: Quality Management System Certification, Junly 2020
 - Oracle Database 12c Administrator Certified Professional @ Oracle, September 2020
-- First Class Scholarship @ NUPT, 2018
+- Catinfo: Certification of High and New Tech Enterprises, December 2019
+- First Class Scholarship @ NJUPT, 2018
 - 2nd Prize @ Mathematical Contest in Modelling, January 2017
 - President Scholarship @ NYIT, 2015-2018 each year
 - Dean’s Scholarship @ NYIT, 2015-2017 each year
@@ -56,4 +54,4 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 
 tongyu_ding@163.com
 
-## [Notes](notes.md)
+## [Philosophy](/notes.md)
