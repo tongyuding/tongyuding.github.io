@@ -55,3 +55,5 @@ Feel free to contact me if you want to discuss the research, even the philosophy
 ## Contact
 
 tongyu_ding@163.com
+
+## [Notes](notes.md)
