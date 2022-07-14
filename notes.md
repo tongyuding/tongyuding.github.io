@@ -4,7 +4,7 @@ title: Tongyu Ding
 description: Ding's Philosophy
 ---
 
-# [Home](/index.md) [Philosophy](/notes.md)
+# [Home](/index.md) | [Philosophy](/notes.md)
   
   Here are my thoughts of the world and the life.
 

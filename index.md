@@ -4,17 +4,17 @@ title: Tongyu Ding
 description: Home
 ---
 
-# Tongyu Ding(/index.md)
+# [Tongyu Ding](/index.md)
 <img src="/static/dty.jpg" alt="TY" style="width: 180px; height: 192px; float: right; margin: 10px"/>
 
 I will work as a Research Assistant at the City University of Hong Kong from August 2022, supervised by [Prof. Qing Ke](https://qke.github.io/). My research focuses on data science and database.
 
 Prior to Cityu, I worked in [Nanjing Catinfo](https://www.catinfo.cn/) with Mr.Keqin Shen and Mr.Wei Wang.
 
-Feel free to contact me if you want to discuss the research, even the philosophy.
+Feel free to contact me if you want to discuss the research, even the Philosophy.
 
 
-[[CV](/ding_cv.pdf)]][[GitHub](https://github.com/tongyuding)]]
+[[CV](/ding_cv.pdf)] [[GitHub](https://github.com/tongyuding)]
 
 ---
 
