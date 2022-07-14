@@ -40,7 +40,7 @@ Feel free to contact me if you want to discuss the research, even the Philosophy
 
 ## Awards
 
-- Catinfo: Quality Management System Certification, Junly 2020
+- Catinfo: Quality Management System Certification, July 2020
 - Oracle Database 12c Administrator Certified Professional @ Oracle, September 2020
 - Catinfo: Certification of High and New Tech Enterprises, December 2019
 - First Class Scholarship @ NJUPT, 2018
