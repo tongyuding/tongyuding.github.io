@@ -34,7 +34,7 @@ I am looking for PhD openings with fundings.Feel free to contact me if you have 
 - Data Analysis on Game Kejin(氪金)(_Machine Learning_)
 
 + KCLOUD: Data Ceneter Lifecycle Management System(_Database_)
-  - Includes Auto-Deployment(OS, Oracle RAC, Oracle ADG, MySQL, PostgreSQL, Middleware), Monitoring, Alert, Backup and Recovery, Clone, Optimzation, Resource Management Components.
+  - Includes Auto-Deployment(OS, DB, Oracle ADG, Middleware), Monitoring, Alert, Backup and Recovery, Clone, Optimzation, Resource Management Components.
   - Enterprise Version: Agent-based, Multi-tenancy and Support for More than 100 servers
   - Lite Version: No-Agent, Multi-tenancy and Support for less than 10 servers
 
