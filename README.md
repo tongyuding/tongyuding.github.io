@@ -3,7 +3,7 @@
 1. Install Jekyll 
    web: https://jekyllrb.com/docs/installation/
 (You can skip 2 and 3)
-2. Change jekell version in Gemfile(Line 3 and 14)
+2. Change jekyll version in Gemfile(Line 3 and 14)
 3. Delete GEmfile.lock and execute(Local Test) 
    > bundle install
    > gem install sass
