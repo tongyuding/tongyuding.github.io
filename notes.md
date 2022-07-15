@@ -7,7 +7,7 @@ description: Ding's Philosophy
 # Philosophy
 
   Here are some thoughts of the world and the life.
-  Return to [Home](/index.md).
+  Return to [Home](/index.html).
 
 ---
 

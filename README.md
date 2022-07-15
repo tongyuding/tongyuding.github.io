@@ -1,26 +1,14 @@
 # README.md
 
+1. Install Jekyll 
+   web: https://jekyllrb.com/docs/installation/
+(You can skip 2 and 3)
+2. Change jekell version in Gemfile(Line 3 and 14)
+3. Delete GEmfile.lock and execute(Local Test) 
+   > bundle install
+   > gem install sass
+   > gem install compassy
+   > bundle exec jekyll serve
+4. Change the content in index.md
+5. Delete the test file and Push to GitHub
 
-The MIT License (MIT)
-
-Copyright (c) 2018 Jialin Ding
-
-Copyright (c) 2015 Shu Uesugi
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
