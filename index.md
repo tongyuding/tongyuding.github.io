@@ -11,9 +11,7 @@ I will work as a Research Assistant at the City University of Hong Kong from Aug
 
 Prior to Cityu, I worked in [Nanjing Catinfo](https://www.catinfo.cn/) with Mr.Keqin Shen and Mr.Wei Wang.
 
-Feel free to contact me if you want to discuss the research, even the Philosophy.
-
-I am looking for PhD openings with Fundings.
+I am looking for PhD openings with fundings. Feel free to contact me if you have openings or you want to discuss the research, even the Philosophy.
 
 [[CV](/ding_cv.pdf)] [[GitHub](https://github.com/tongyuding)]
 
@@ -34,17 +32,23 @@ I am looking for PhD openings with Fundings.
 ### Completed Projects
 
 - Data Analysis on Game Kejin(氪金)(_Machine Learning_)
+
 + KCLOUD: Data Ceneter Lifecycle Management System(_Database_)
   - Includes Auto-Deployment(OS, Oracle RAC, Oracle ADG, MySQL, PostgreSQL, Middleware), Monitoring, Alert, Backup and Recovery, Clone, Optimzation, Resource Management Components.
   - Enterprise Version: Agent-based ,Multi-tenancy and Support for More than 100 servers
   - Lite  Version     : No-Agent    ,Multi-tenancy and Support for less than 10  servers
+
 - CATDB:  PostgreSQL-Based MPP Database(_Database_)
+
 + KTUNER: Query Optimization Analysis Tool(_Database_)
   - Workload Prediction based on Guassian Process Regression(OtterTune)
   - Oracle SQL Auto Tuning
+
 + KSYSTEM: Oracle-based Cluster Management System(_Database_)
   - Integrated, Scaleable, Support for Active-Active Mode
+  
 - Restaurant Recommendation App on Andorid Platform(_Machine Learning_)
+
 - Comparative Study of Different Supervised Classification Algorithms in Remote Sensing Image(_Machine Learning_)
 
 ---
