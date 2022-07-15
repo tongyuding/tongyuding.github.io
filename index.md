@@ -27,7 +27,7 @@ I am looking for PhD openings with fundings. Feel free to contact me if you have
 
 ### Ideas
 
-1. Decsion System for Risks Management
+1. Decision System for Risk Management
 
 ### Completed Projects
 
@@ -46,7 +46,7 @@ I am looking for PhD openings with fundings. Feel free to contact me if you have
 
 + KSYSTEM: Oracle-based Cluster Management System(_Database_)
   - Integrated, Scaleable, Support for Active-Active Mode
-  
+
 - Restaurant Recommendation App on Andorid Platform(_Machine Learning_)
 
 - Comparative Study of Different Supervised Classification Algorithms in Remote Sensing Image(_Machine Learning_)
