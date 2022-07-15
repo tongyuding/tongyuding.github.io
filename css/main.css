@@ -49,18 +49,16 @@ a {
     color: #4183C4; }
 
 ul, ol {
-  margin: 15px 0;
   padding-left: 30px; }
 
 ul {
-  margin: 15px 0;
   list-style-type: disc; }
 
 ol {
   list-style-type: decimal; }
 
 ol ul, ul ol, ul ul, ol ol {
-  margin-bottom: 15px; }
+  padding-bottom: 15px; }
 
 ul ul, ol ul {
   list-style-type: circle; }

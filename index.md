@@ -42,12 +42,12 @@ I am looking for PhD openings with fundings.Feel free to contact me if you have 
   - Used for IoT or Data Warehouse, such as BDS Trajectory Data or Bridge Sensor Data
 
 + KTUNER: Query Optimization Analysis Tool(_Database_)
-  - Workload Prediction based on Guassian Process Regression(OtterTune)
+  - Workload Prediction based on OtterTune's Guassian Process Regression
   - Oracle SQL Auto Tuning 
 
-+ KSYSTEM: Oracle-based Cluster Management System(_Database_)
-  - Integrated, Scaleable, Support for Active-Active Mode
-
++ KSYSTEM: Integrated Database Server(_Database_)
+  - Scaleable,High Availability, Support for Active-Active Mode
+  
 - Restaurant Recommendation App on Andorid Platform(_Machine Learning_)
 
 - Comparative Study of Different Supervised Classification Algorithms in Remote Sensing Image(_Machine Learning_)
