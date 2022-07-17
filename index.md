@@ -41,12 +41,12 @@ I am looking for PhD openings with fundings.Feel free to contact me if you have 
 + CATDB: PostgreSQL-Based MPP Database(_Database_)
   - Used for IoT or Data Warehouse, such as BDS Trajectory Data or Bridge Sensor Data
 
-+ KTUNER: Query Optimization Analysis Tool(_Database_)
++ KTUNER: Query Optimization Tool(_Database_)
   - Workload Prediction based on OtterTune's Guassian Process Regression
   - Oracle SQL Auto Tuning 
 
 + KSYSTEM: Integrated Database Server(_Database_)
-  - Scaleable,High Availability, Support for Active-Active Mode
+  - Scaleable, High Availability, Support for Active-Active Mode
   
 - Restaurant Recommendation App on Andorid Platform(_Machine Learning_)
 
